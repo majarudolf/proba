@@ -1,0 +1,19 @@
+body {
+	background-image:url('slike/04.jpg');
+}
+#prviblok {
+	background-color: rgba(0,0,0,0.5);
+	padding: 20px;
+	font-family:"Lucida Sans", Verdana, sans-serif;
+	color:white;
+}
+img {
+	height: 300px;
+}
+
+.gumb {
+	border: 2px solid black;
+	background-color: white;
+	padding: 10px; 
+	width:200px;
+}
